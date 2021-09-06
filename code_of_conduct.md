@@ -20,10 +20,10 @@ Examples of behavior that contributes to creating a positive environment include
 
 Examples of unacceptable behavior by participants include:
 
-- Harassment of conference participants in any form
+- Harassment of event participants in any form
 - Deliberate intimidation, stalking, or following
 - Violent threats or language directed against another person
-- Sexual language and imagery in any conference venue, including talks
+- Sexual language and imagery in any event venue, including talks
 - Insults or put downs
 - Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
 - Excessive swearing
@@ -35,13 +35,13 @@ Examples of unacceptable behavior by participants include:
 
 Participants asked to stop any inappropriate behavior are expected to comply immediately.
 
-If a participant engages in behavior that violates this code of conduct, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If a participant engages in behavior that violates this code of conduct, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
 ### Weapons Policy
 
-No weapons are allowed at conference venues, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
+No weapons are allowed at CodeHappy event venues, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
 
 Attendees are further expected to comply with all state and local laws on this matter.
 
