@@ -56,7 +56,7 @@ If you believe that someone is violating the code of conduct during a CodeHapy e
 - **Incident Report Contact**
     - <hello@codehappy.ph>
 
-The event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the event. We value your attendance.
+The event staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the event. We value your attendance.
 
 ## License
 
